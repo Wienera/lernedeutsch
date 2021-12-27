@@ -51,7 +51,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
-  - jekyll-include-cache
+#  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
