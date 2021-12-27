@@ -1,7 +1,7 @@
 ---
 title: Über uns
-layout: single
+type: page
 permalink: /über-uns
 ---
 
-Wir sind so cool .....
+Wir sind wir
