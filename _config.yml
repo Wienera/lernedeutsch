@@ -17,8 +17,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+#remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
-title: Lerne Deutsch mit Uns
+title: Lerne Deutsch mit uns
 email: your-email@example.com
 language: de
 description: Dies ist die Lernplatform für .......
@@ -28,9 +30,22 @@ url: "https://lernedeutsch.org/" # the base hostname & protocol for your site, e
 # github_username:  jekyll
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: minimal-mistakes-jekyll
+include: 
+  - _pages
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "Kontakt"
+      icon: "far fa-envelope"
+      url: mailto:venera.urgazieva@protonmail.com
+    - label: "Über uns"
+      icon: "fas fa-info-circle"
+      url: /über-uns   
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
