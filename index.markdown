@@ -2,7 +2,7 @@
 title: "lernedeutsch.org"
 layout: default
 type: "pages"
-permalink: /
+
 ---
 
 ## A1 - Kernkompetenz
