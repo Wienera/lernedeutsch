@@ -15,7 +15,6 @@ type: "pages"
 
 ### [Sprechen](/A1/sprechen)
 
-### [Prüfungsforbereitung](/A1/pruefungsvorbereitung)
 
 ## B1 - Kernkompetenz
 
@@ -27,6 +26,6 @@ type: "pages"
 
 ### [Sprechen](/B1/sprechen)
 
-### [Prüfungsforbereitung](/B1/pruefungsvorbereitung)
+
 
 {% include footer.html %}
