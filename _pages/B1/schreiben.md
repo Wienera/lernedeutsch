@@ -1,6 +1,6 @@
 ---
 title: B1- Schreiben
-type: page
+layout: default
 permalink: /B1/schreiben
 ---
 

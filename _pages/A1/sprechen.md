@@ -1,6 +1,6 @@
 ---
 title: A1- Sprechen
-type: page
+layout: default
 permalink: /A1/sprechen
 ---
 

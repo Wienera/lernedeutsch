@@ -1,6 +1,6 @@
 ---
 title: A1- Grammatik
-type: page
+layout: default
 permalink: /A1/grammatik
 ---
 

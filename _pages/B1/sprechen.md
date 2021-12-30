@@ -1,6 +1,6 @@
 ---
 title: B1- Sprechen
-type: page
+layout: default
 permalink: /B1/sprechen
 ---
 

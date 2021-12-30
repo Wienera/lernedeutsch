@@ -1,6 +1,6 @@
 ---
 title: B1- Lesen
-type: page
+layout: default
 permalink: /B1/lesen
 ---
 

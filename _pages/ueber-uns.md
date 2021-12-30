@@ -1,6 +1,6 @@
 ---
 title: Über uns
-type: page
+layout: default
 permalink: /über-uns
 ---
 

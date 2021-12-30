@@ -1,10 +1,10 @@
 ---
-title: "lernedeutsch.org"
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: default
-type: "pages"
-
+title: ""
 ---
-
 ## A1 - Kernkompetenz
 
 ### [Grammatik](/A1/grammatik)
@@ -25,7 +25,3 @@ type: "pages"
 ### [Lesen](/B1/lesen)
 
 ### [Sprechen](/B1/sprechen)
-
-
-
-{% include footer.html %}

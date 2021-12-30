@@ -1,6 +1,6 @@
 ---
 title: A1- Schreiben
-type: page
+layout: default
 permalink: /A1/schreiben
 ---
 
