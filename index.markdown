@@ -5,7 +5,7 @@
 layout: hauptseite
 title: ""
 ---
-## [A1 - Kernkompetenz](/A1)
+## [A2 - Kernkompetenz](/A2)
 
 
 ## [B1 - Kernkompetenz](/B1)

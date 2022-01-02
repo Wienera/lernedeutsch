@@ -38,11 +38,11 @@ plugins:
 include:
  - _pages
  - .htaccess
- - _files_a1_schreiben
- - _files_a1_grammatik
- - _files_a1_lesen
- - _files_a1_sprechen
- - _files_a1_pruefung
+ - _files_a2_schreiben
+ - _files_a2_grammatik
+ - _files_a2_lesen
+ - _files_a2_sprechen
+ - _files_a2_pruefung
  - _files_b1_schreiben
  - _files_b1_grammatik
  - _files_b1_lesen
