@@ -1,5 +1,5 @@
 ---
-title: A1- Grammatik
+title: Grammatik
 layout: default
 permalink: /A1/grammatik
 ---
@@ -9,7 +9,7 @@ permalink: /A1/grammatik
 {% for file in site.static_files %}
     {% if file.path contains '_files_a1_grammatik' %}   
         <p> 
-            <a href="{{site.url}}{{file.path}}">{{file.name}}</a>
+            <a href="{{site.url}}{{file.path}}" target="_blank" rel="noopener noreferrer">{{file.name}}</a>
         </p>
     {% endif %}
 {% endfor %}
