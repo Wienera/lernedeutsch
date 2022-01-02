@@ -1,7 +1,7 @@
 ---
 layout: default
 title: B1
-permalink: /B1
+permalink: /B1/
 ---
 
 ## B1 - Kernkompetenz

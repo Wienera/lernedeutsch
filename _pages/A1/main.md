@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A1
-permalink: /A1
+permalink: /A1/
 ---
 
 ## A1 - Kernkompetenz
