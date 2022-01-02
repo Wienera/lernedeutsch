@@ -5,6 +5,10 @@
 layout: hauptseite
 title: ""
 ---
+# Willkommen auf lernedeutsch.org!
+
+Hier finden Sie nützliche Informationen zur A2-B1 ÖIF-Prüfung, hilfreiche Lernunterlagen zur Prüfungsvorbereitung sowie praktische Redewendungen und Mustersätze für den Alltag.
+
 ## [A2 - Kernkompetenz](/A2)
 
 
