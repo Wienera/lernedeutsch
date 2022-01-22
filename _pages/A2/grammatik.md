@@ -1,13 +1,13 @@
 ---
 title: Grammatik
 layout: default
-permalink: /A1/grammatik
+permalink: /A2/grammatik
 ---
 
-## A1- Grammatik
+## A2- Grammatik
 <div>
 {% for file in site.static_files %}
-    {% if file.path contains '_files_a1_grammatik' %}   
+    {% if file.path contains '_files_a2_grammatik' %}   
         <p> 
             <a href="{{site.url}}{{file.path}}" target="_blank" rel="noopener noreferrer">{{file.name}}</a>
         </p>

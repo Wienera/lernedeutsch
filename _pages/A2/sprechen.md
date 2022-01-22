@@ -1,13 +1,13 @@
 ---
-title: Lesen
+title: Sprechen
 layout: default
-permalink: /A1/lesen
+permalink: /A2/sprechen
 ---
 
-## A1- Lesen
+## A2- Sprechen
 <div>
 {% for file in site.static_files %}
-    {% if file.path contains '_files_a1_lesen' %}   
+    {% if file.path contains '_files_a2_sprechen' %}   
         <p> 
             <a href="{{site.url}}{{file.path}}" target="_blank" rel="noopener noreferrer">{{file.name}}</a>
         </p>
